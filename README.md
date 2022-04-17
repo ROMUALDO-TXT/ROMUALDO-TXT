@@ -1,6 +1,6 @@
 # Hi there! I'm Lucas Romualdo Lemos 👋
 
-- I´m a Backend Developer from Brazil 🇧🇷
+- I´m a Backend Developer from Brazil 
 - JavaScript, TypeScript, Node.Js, Java, Go, PHP, HTML 
 - Checkout my work projects to know more about my habilities 👍
 
