@@ -2,7 +2,6 @@
 
 - I´m a Backend Developer from Brazil 
 - JavaScript, TypeScript, Node.Js, Java, Go, PHP, HTML 
-- Focusing my studies in Go/Golang :=
 - Checkout my work projects to know more about my habilities 👍
 
 ## My GitHub Stats
