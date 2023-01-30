@@ -6,4 +6,4 @@
 
 ## My GitHub Stats
 [![ROMUALDO-TXT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROMUALDO-TXT&theme=dark)](https://github.com/ROMUALDO-TXT/ROMUALDO-TXT)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROMUALDO-TXT&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROMUALDO-TXT&theme=dark&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
